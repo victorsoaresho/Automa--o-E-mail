@@ -11,8 +11,8 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-Versão mais recente do python. <BR>
-Uma IDE de sua escolha. <BR>
+Versão mais recente do python. 
+Uma IDE de sua escolha. 
 Bibliotecas smtplib e email.message instaladas em sua máquina.
 ```
 

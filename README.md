@@ -18,7 +18,7 @@ Bibliotecas smtplib e email.message instaladas em sua máquina.
 
 ## 📄 Licença
 
-Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença (MIT).
 
 ## 🎁 Expressões de gratidão
 
